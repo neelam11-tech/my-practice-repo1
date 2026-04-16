@@ -1,2 +1,2 @@
 # my-practice-repo1
-I am learning gitHub.
+I am trying to learn gitHub.
