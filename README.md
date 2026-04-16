@@ -1,2 +1,2 @@
 # my-practice-repo1
-This is for practice
+I am learning gitHub.
